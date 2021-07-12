@@ -1,0 +1,9 @@
+# main links
+main:
+
+  - title: "Archive"
+    url: /month-archive/
+  - title: "Category"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
